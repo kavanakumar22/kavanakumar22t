@@ -1,4 +1,3 @@
-# hi there 🙋
 # 💫 About Me:
 Current status : Student <br>Ask me about <br>Fun fact
 
